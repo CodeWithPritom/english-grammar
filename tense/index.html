@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>English Tenses E-Book</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 15H9v-2h2v2zm0-4H9V7h2v6zm4 0h-2V7h2v6z' fill='%234285F4'/%3E%3C/svg%3E" type="image/svg+xml">
+</head>
+<body>
+    <header>
+        <h1>English Tenses E-Book</h1>
+        <div class="theme-switcher">
+            <button onclick="setTheme('light')">Light</button>
+            <button onclick="setTheme('dark')">Dark</button>
+        </div>
+    </header>
+
+    <nav id="main-nav">
+        <!-- Dropdown Navigation -->
+        <div class="dropdown-nav">
+            <button class="dropdown-btn">Tenses ▼</button>
+            <div class="dropdown-content">
+                <a href="#present-tense-intro" onclick="loadSection('presentTense')">Present Tense</a>
+                <a href="#past-tense-intro" onclick="loadSection('pastTense')">Past Tense</a>
+                <a href="#future-tense-intro" onclick="loadSection('futureTense')">Future Tense</a>
+            </div>
+        </div>
+    </nav>
+
+    <main id="content-area">
+        <!-- Content and exercises will be loaded here by JavaScript -->
+        <div id="section-content"></div>
+        <div id="exercise-content"></div>
+
+        <button id="next-section-btn" onclick="loadNextSection()">Summary / Next Steps</button>
+    </main>
+
+    <footer>
+        <p>© 2025 English Tenses E-Book. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

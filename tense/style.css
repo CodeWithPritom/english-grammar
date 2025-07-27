@@ -1,0 +1,375 @@
+/* Basic Reset & Body Styling */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    transition: background-color 0.3s, color 0.3s;
+    scroll-behavior: smooth;
+}
+
+/* Theme Variables (Light by default) */
+:root {
+    --bg-color: #f4f7f6;
+    --text-color: #333;
+    --header-footer-bg: #2c3e50;
+    --header-footer-text: #ecf0f1;
+    --link-color: #3498db;
+    --link-hover-color: #2980b9;
+    --button-bg: #4CAF50;
+    --button-text: white;
+    --button-hover-bg: #45a049;
+    --exercise-bg: #e8f5e9;
+    --exercise-border: #81c784;
+    --answer-bg: #dcedc8;
+    --answer-border: #aed581;
+    --mark-color: #ffe082; /* Light yellow for highlighted text */
+    --note-bg: #fffbe6;
+    --note-border: #ffd700;
+    --input-border: #ccc;
+    --input-focus-border: #3498db;
+    --correct-color: #4CAF50;
+    --incorrect-color: #e74c3c;
+    --score-bg: #f0f0f0;
+}
+
+/* Dark Theme */
+body.dark-theme {
+    --bg-color: #212121;
+    --text-color: #e0e0e0;
+    --header-footer-bg: #424242;
+    --header-footer-text: #ffffff;
+    --link-color: #90caf9;
+    --link-hover-color: #64b5f6;
+    --button-bg: #66bb6a;
+    --button-text: #212121;
+    --button-hover-bg: #81c784;
+    --exercise-bg: #37474f;
+    --exercise-border: #4db6ac;
+    --answer-bg: #424242;
+    --answer-border: #616161;
+    --mark-color: #8c7b33; /* Darker yellow for highlighted text */
+    --note-bg: #333;
+    --note-border: #555;
+    --input-border: #555;
+    --input-focus-border: #90caf9;
+    --correct-color: #66bb6a;
+    --incorrect-color: #e57373;
+    --score-bg: #333;
+}
+
+/* Layout */
+header, footer {
+    background-color: var(--header-footer-bg);
+    color: var(--header-footer-text);
+    text-align: center;
+    padding: 1rem 0;
+    position: relative; /* For theme switcher positioning */
+}
+
+nav {
+    background-color: #34495e;
+    padding: 0.8rem 0;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    top: 0;
+    z-index: 1000;
+}
+
+/* Dropdown Navigation Styles */
+.dropdown-nav {
+    display: inline-block;
+    position: relative;
+}
+.dropdown-btn {
+    background-color: #34495e;
+    color: var(--header-footer-text);
+    padding: 0.5rem 1.2rem;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.dropdown-btn:hover, .dropdown-btn:focus {
+    background-color: #5d6d7e;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    left: 0;
+    min-width: 180px;
+    background-color: #34495e;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    z-index: 1001;
+    text-align: left;
+}
+.dropdown-content a {
+    display: block;
+    color: var(--header-footer-text);
+    padding: 0.7rem 1.2rem;
+    text-decoration: none;
+    border-radius: 0;
+    margin: 0;
+    transition: background-color 0.3s;
+}
+.dropdown-content a:hover {
+    background-color: #5d6d7e;
+}
+.dropdown-nav:focus-within .dropdown-content,
+.dropdown-nav:hover .dropdown-content {
+    display: block;
+}
+
+
+nav a {
+    color: var(--header-footer-text);
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    margin: 0 0.5rem;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+nav a:hover, nav a.active {
+    background-color: #5d6d7e;
+}
+
+main {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: var(--bg-color);
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border-radius: 8px;
+}
+
+section {
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #eee;
+}
+
+section:last-of-type {
+    border-bottom: none;
+}
+
+/* Typography */
+h1, h2, h3, h4 {
+    color: var(--text-color);
+    margin-top: 1.5rem;
+    margin-bottom: 0.8rem;
+}
+
+h1 { font-size: 2.5rem; }
+h2 { font-size: 2rem; border-bottom: 2px solid var(--link-color); padding-bottom: 5px; }
+h3 { font-size: 1.6rem; }
+h4 { font-size: 1.3rem; }
+
+p, ul, ol, table {
+    margin-bottom: 1rem;
+}
+
+ul, ol {
+    padding-left: 25px;
+}
+
+li {
+    margin-bottom: 0.5rem;
+}
+
+mark {
+    background-color: var(--mark-color);
+    padding: 2px 4px;
+    border-radius: 3px;
+}
+
+.note {
+    background-color: var(--note-bg);
+    border-left: 5px solid var(--note-border);
+    padding: 10px 15px;
+    margin: 15px 0;
+    border-radius: 4px;
+}
+.note strong {
+    color: var(--note-border);
+}
+
+
+/* Tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+    color: var(--text-color);
+}
+body.dark-theme th {
+    background-color: #424242;
+    color: var(--header-footer-text);
+}
+
+
+/* Exercises */
+#exercise-content {
+    margin-top: 50px; /* Space above exercises */
+}
+.exercise-block {
+    border: 1px solid var(--exercise-border);
+    background-color: var(--exercise-bg);
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 30px;
+}
+
+.exercise-block ol {
+    list-style-type: decimal;
+    padding-left: 20px;
+}
+
+/* Input field styling */
+.exercise-block input[type="text"] {
+    border: 1px solid var(--input-border);
+    border-radius: 4px;
+    padding: 5px 8px;
+    font-size: 0.95rem;
+    background-color: var(--bg-color); /* Match background */
+    color: var(--text-color); /* Match text color */
+    box-sizing: border-box; /* Include padding and border in width */
+    min-width: 80px; /* Default minimum width for input */
+    max-width: 150px; /* Max width to prevent overly long inputs */
+    vertical-align: middle; /* Align with text */
+    margin: 0 3px; /* Space around the input */
+    transition: border-color 0.2s;
+}
+
+.exercise-block input[type="text"]:focus {
+    outline: none;
+    border-color: var(--input-focus-border);
+    box-shadow: 0 0 0 2px rgba(52, 152, 219, 0.2); /* Light blue shadow */
+}
+
+/* Feedback for inputs */
+.exercise-block input.correct {
+    border-color: var(--correct-color);
+    background-color: rgba(76, 175, 80, 0.1); /* Light green tint */
+}
+.exercise-block input.incorrect {
+    border-color: var(--incorrect-color);
+    background-color: rgba(231, 76, 60, 0.1); /* Light red tint */
+}
+
+.answers {
+    display: none; /* Hidden by default */
+    margin-top: 20px;
+    padding: 15px;
+    background-color: var(--answer-bg);
+    border: 1px dashed var(--answer-border);
+    border-radius: 5px;
+}
+
+.check-answers-btn, .show-answers-btn, #next-section-btn {
+    background-color: var(--button-bg);
+    color: var(--button-text);
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    margin-top: 15px;
+    transition: background-color 0.3s ease;
+    display: inline-block; /* Allow buttons to sit next to each other */
+    margin-right: 10px; /* Space between buttons */
+}
+
+.check-answers-btn:hover, .show-answers-btn:hover, #next-section-btn:hover {
+    background-color: var(--button-hover-bg);
+}
+
+#next-section-btn {
+    display: block; /* Make continue button block level */
+    margin: 40px auto 20px auto; /* Center the continue button */
+}
+
+.exercise-score {
+    margin-top: 15px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    background-color: var(--score-bg);
+    border: 1px solid var(--input-border);
+    text-align: center;
+    font-weight: bold;
+    color: var(--text-color);
+}
+
+
+/* Theme Switcher */
+.theme-switcher {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+.theme-switcher button {
+    background-color: #555;
+    color: white;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    margin-left: 5px;
+    transition: background-color 0.3s ease;
+}
+.theme-switcher button:hover {
+    background-color: #777;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    main {
+        margin: 10px;
+        padding: 15px;
+    }
+    h1 { font-size: 2rem; }
+    h2 { font-size: 1.7rem; }
+    h3 { font-size: 1.4rem; }
+    nav a {
+        display: block;
+        margin: 5px auto;
+        width: fit-content;
+    }
+    .theme-switcher {
+        position: static;
+        text-align: center;
+        margin-top: 10px;
+    }
+    .exercise-block input[type="text"] {
+        max-width: 100%; /* Allow inputs to take full width on small screens */
+    }
+}
+
+@media (max-width: 480px) {
+    h1 { font-size: 1.8rem; }
+    h2 { font-size: 1.5rem; }
+    .check-answers-btn, .show-answers-btn, #next-section-btn {
+        width: 100%;
+        box-sizing: border-box; /* Include padding and border in the element's total width */
+        margin-right: 0;
+        margin-bottom: 10px; /* Space between stacked buttons */
+    }
+    .exercise-block input[type="text"] {
+        min-width: 50px;
+    }
+}

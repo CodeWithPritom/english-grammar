@@ -1,0 +1,1090 @@
+{
+  "tenses": {
+    "presentTense": {
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "content": "TENSE - Present Tense",
+          "id": "present-tense-intro"
+        },
+        {
+          "type": "paragraph",
+          "content": "Present tense has four different forms:"
+        },
+        {
+          "type": "list",
+          "style": "ul",
+          "items": [
+            "Present Indefinite Tense / Simple Present Tense",
+            "Present Progressive (Continuous) Tense",
+            "Present Perfect Tense",
+            "Present Perfect Progressive (Continuous)"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "content": "Present Indefinite Tense / Simple Present Tense"
+        },
+        {
+          "type": "paragraph",
+          "content": "The present indefinite tense, also known as simple present tense, denotes a stative or habitual or eternally true action."
+        },
+        {
+          "type": "paragraph",
+          "content": "Generally, simple present tense is used to indicate an action which happens – <mark>always, regularly, every day, daily, normally, generally, usually, occasionally, sometimes, often, rarely, frequently, nowadays, naturally, seldom, constantly, never, every a week, every year, once a year, on a week, at times, at present, now and then, or all the time.</mark>"
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "Structure:"
+        },
+        {
+          "type": "list",
+          "style": "ul",
+          "items": [
+            "Subject (all other kinds) + verb in simple present form + . . .",
+            "Subject (third person singular number) + verb in simple present form + s/es + ..."
+          ]
+        },
+        {
+          "type": "note",
+          "content": "When 'be' verbs work as the main verb in a sentence, they are different from the above structures."
+        },
+        {
+          "type": "table",
+          "headers": ["Person/Number", "Singular", "Plural"],
+          "rows": [
+            ["First", "I am a good cricket player.", "We are good cricket players."],
+            ["Second", "You are an irresponsible person.", "You all are always irresponsible."],
+            ["Third", "The earth is smaller than Jupiter.", "Junk foods are not good for health."]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "There are some stative verbs which are usually used in simple tenses whether present or past or future. The stative verbs are: Have, Hate, Appear, Smell, Sound, Understand, Need, See, Want, Own, Know, Hear, Like, Taste, Believe, Love, Seem, Wish"
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "Examples:"
+        },
+        {
+          "type": "list",
+          "style": "ul",
+          "items": [
+            "I know Samia.",
+            "He understands it.",
+            "They love swinging in the park.",
+            "Some people do not believe in politics.",
+            "I usually wake up at 6.00 AM."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "content": "Present Progressive (Continuous) Tense"
+        },
+        {
+          "type": "paragraph",
+          "content": "The present progressive is used to indicate the ongoing time (now). However, the stative verbs do not usually take the form of present progressive even though they refer to the present time."
+        },
+        {
+          "type": "paragraph",
+          "content": "<mark>Now, continually, perpetually, at this moment, at the moment, right now, This season, this year, forever, etc.</mark> are usually the signs of a verb to take present progressive tense. However, these signs are not necessary all the time for a verb to present progressive tense."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "Structure:"
+        },
+        {
+          "type": "paragraph",
+          "content": "Subject + am/is/are + verb + ing + . . ."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "Examples:"
+        },
+        {
+          "type": "list",
+          "style": "ul",
+          "items": [
+            "I am going to the university ground.",
+            "He is coming here for some tips.",
+            "They are making a basketball ground.",
+            "Why are you working in that horrible place?",
+            "Four teams are playing at this moment."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "This structure can also be used to demonstrate future time."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "Examples:"
+        },
+        {
+          "type": "list",
+          "style": "ul",
+          "items": [
+            "Sami is leaving for Bhutan tomorrow.",
+            "I am going to complete my task tomorrow.",
+            "Our bus is leaving at 6.00 PM.",
+            "They are flying to Canada next month."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "content": "Present Perfect Tense"
+        },
+        {
+          "type": "paragraph",
+          "content": "The present perfect tense is used when one intends to indicate:"
+        },
+        {
+          "type": "list",
+          "style": "ul",
+          "items": [
+            "an action that occurred at a time which is indefinite and has its effect on the subject",
+            "or an action that occurred many times and has the possibility to occur in the present/future",
+            "or an action that began in the past and still going on in the present."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "<mark>Just, already, yet, just now, ever, lately, recently, etc.</mark> are some of the signs for present perfect tense."
+        },
+        {
+          "type": "note",
+          "content": "<mark>Already</mark> comes between have/has and the past participle; <mark>yet</mark> appears with a negative form at the end of the sentence."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "Structure:"
+        },
+        {
+          "type": "paragraph",
+          "content": "Subject + have/has + verb in the past participle form + ..."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "Examples:"
+        },
+        {
+          "type": "list",
+          "style": "ul",
+          "items": [
+            "Sami has already reached there.",
+            "Sami has not reached yet.",
+            "I have already cleaned the house.",
+            "I have not cleaned the house yet.",
+            "Sami has read the book written by Dan Brown. (No time is indicated)",
+            "I have read this poem many times. (Not habitual but occurred many times in the past)",
+            "He has lived in this apartment for 15 years. (Still going on)"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "content": "Present Perfect Progressive (Continuous)"
+        },
+        {
+          "type": "paragraph",
+          "content": "It is the least used form of present tense. Present perfect progressive is used to indicate an action that began in the past and is still occurring in the present. Both present perfect and present perfect continuous can be used to indicate this type of action."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "Structure:"
+        },
+        {
+          "type": "paragraph",
+          "content": "Subject + have/has + been + [verb + ing] +..."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "Examples:"
+        },
+        {
+          "type": "list",
+          "style": "ul",
+          "items": [
+            "Sami has been reading for 3 hours.",
+            "I have been sleeping since 10.00 AM.",
+            "Sami has been working in that shop for 6 years."
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "id": "ex1",
+          "title": "Exercise I",
+          "type": "fill_in_the_blanks",
+          "direction": "Complete the sentences with the verbs in brackets using present simple and progressive tense.",
+          "questions": [
+            {"text": "Look. He ___ to us. (listen)", "answer": ["is listening"]},
+            {"text": "We ___ at a hotel this week. (stay)", "answer": ["are staying"]},
+            {"text": "I ___ to bed early on Sundays. (go)", "answer": ["go"]},
+            {"text": "My mum is at the shop. She ___ a new dress. (buy)", "answer": ["is buying"]},
+            {"text": "Jill ___ a lot of money. (have)", "answer": ["has"]},
+            {"text": "They usually ___ on Sunday. (leave)", "answer": ["leave"]},
+            {"text": "Please, stop! You ___ so fast! (drive)", "answer": ["are driving"]},
+            {"text": "We ___ in Berlin each year. (meet)", "answer": ["meet"]},
+            {"text": "We ___ to discos on Fridays. (go)", "answer": ["go"]},
+            {"text": "He normally ___ on time. (come)", "answer": ["comes"]},
+            {"text": "I can't hear you! I ___ a shower. (have)", "answer": ["am having"]},
+            {"text": "Sam ___ his homework at night. (do)", "answer": ["does"]}
+          ]
+        },
+        {
+          "id": "ex2",
+          "title": "Exercise II",
+          "type": "fill_in_the_blanks",
+          "direction": "Make these sentences negative using present simple and progressive tense.",
+          "questions": [
+            {"text": "You ___ very good. Why do you read such magazines?", "answer": ["are not", "aren't"]},
+            {"text": "Why ___ such magazines? I'm doing housework at the moment.", "answer": ["don't you read", "do not you read"]},
+            {"text": "I ___ housework at the moment. We go swimming on Tuesdays.", "answer": ["am not doing", "I'm not doing"]},
+            {"text": "My Spanish pen friend ___ me postcards.", "answer": ["does not send", "doesn't send"]},
+            {"text": "Why ___ listening to us?", "answer": ["are you not", "aren't you"]},
+            {"text": "Why ___. What does Jack do?", "answer": ["is he not talking", "isn't he talking"]},
+            {"text": "What ___. She's sitting over there.", "answer": ["is she not doing", "isn't she doing"]},
+            {"text": "They ___ a house in the mountains.", "answer": ["do not have", "don't have"]},
+            {"text": "We ___ fun in the mountains. We're having fun.", "answer": ["are not having", "aren't having"]},
+            {"text": "We ___ fun.", "answer": ["do not have", "don't have"]}
+          ]
+        },
+        {
+          "id": "ex3",
+          "title": "Exercise III",
+          "type": "fill_in_the_blanks",
+          "direction": "Use the words in brackets to complete these sentences using present perfect simple and continuous.",
+          "example": "<strong>Example:</strong> We can go home. We have mended three cars today. (mend)<br>We have been mending cars since the morning and we aren't finished. (make)",
+          "questions": [
+            {"text": "She ___ puddings all day. She's pretty tired. (make)", "answer": ["has been making"]},
+            {"text": "How many puddings ___ she ___? (look for)", "blanks": 2, "answer": ["has", "looked for"]}
+          ]
+        },
+        {
+          "id": "ex4",
+          "title": "Exercise IV",
+          "type": "fill_in_the_blanks",
+          "direction": "Use the underlined words to make questions using present perfect simple and continuous.",
+          "example": "<strong>Example:</strong> <u>Sandra is a journalist. She publishes her interviews in American newspapers.</u><br><em>What does Sandra do? What does she publish?</em>",
+          "questions": [
+            {"text": "<u>My wife is learning Japanese.</u><br>How long ___ her articles in the American newspapers?", "answer": ["has she been publishing"]},
+            {"text": "<u>I met Cosby a few years ago. I know him.</u><br>___ she ___ Japanese before?", "blanks": 2, "answer": ["Has", "learned"]},
+            {"text": "<u>I haven't done this for such a long time!</u><br>How many years ___ him?", "answer": ["have you known"]},
+            {"text": "<u>My hotel is quite prosperous. I run it myself.</u><br>What ___ you ___ instead of it all the time?", "blanks": 2, "answer": ["have", "been doing"]},
+            {"text": "<u>She wanted to borrow some money from me.</u><br>How long ___ you ___ the hotel?", "blanks": 2, "answer": ["have", "had"]},
+            {"text": "<u>I have a camera. I can take a picture of you.</u><br>___ she ___ the money yet?", "blanks": 2, "answer": ["Has", "returned"]},
+            {"text": "<u>It's 10 o'clock and he isn't here yet. I'm not going to wait for him any longer.</u><br>Good idea! ___ you ___ pictures for a long time?", "blanks": 2, "answer": ["Have", "taken"]},
+            {"text": "<u>It's terrible.</u><br>How long ___ you ___ for him?", "blanks": 2, "answer": ["have", "been waiting"]}
+          ]
+        },
+        {
+          "id": "ex5",
+          "title": "Exercise V",
+          "type": "fill_in_the_blanks",
+          "direction": "Complete the following passage with the correct form of present tense.",
+          "questions": [
+            {"text": "Today (be) ___ the second day of my trek around Mount Annapurna. I am exhausted and my legs (shake) ___; I just hope I am able to complete the trek. My feet (kill, really) ___ me and my toes (bleed) ___, but I (want, still) ___ to continue. Nepal is a fascinating country, but I have a great deal to learn. Everything (be) ___ so different, and I (try) ___ to adapt to the new way of life here. I (learn) ___ a little bit of the language to make communication easier; unfortunately, I (learn, not) ___ foreign languages quickly. I (travel, currently) ___ with Liam, a student from Leeds University in England. He (be) ___ a nice guy, but impatient. He (walk, always) ___ ahead of me and (complain) ___ that I am too slow. I (do) ___ my best to keep up with him, but he is younger and stronger than I am. Maybe, I am just feeling sorry for myself because I am getting old. Right now, Liam (sit) ___ with the owner of the inn. They (discuss) ___ the differences between life in England and life in Nepal.",
+              "blanks": 16,
+              "answer": [
+                "is",
+                "are shaking",
+                "are really killing",
+                "are bleeding",
+                "still want",
+                "is",
+                "am trying",
+                "am learning",
+                "do not learn",
+                "am currently traveling",
+                "is",
+                "is always walking",
+                "is complaining",
+                "am doing",
+                "is sitting",
+                "are discussing"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "title": "Exercise VI",
+          "type": "paragraph_correction",
+          "direction": "Read the following paragraphs. Can you spot the errors in tense? If yes, correct the errors and rewrite the paragraphs. For this exercise, please review the corrected text below after attempting to find the errors yourself, as real-time individual error marking is not available for paragraph corrections.",
+          "original_text": [
+            "If you want to pick up a new outdoor activity, hiking is a great option to consider. It's a sport that is suited for a beginner or an expert it just depended on the difficulty hikes you choose. However, even the earliest beginners can complete difficult hikes if they pace themselves and were physically fit.",
+            "Not only is hiking an easy activity to pick up, it also will have some great payoffs. As you walked through canyons and climbed up mountains, you can see things that you wouldn't otherwise. The views are breathtaking, and you will get a great opportunity to meditate on the world and your role in it. The summit of a mountain is unlike any other place in the world."
+          ],
+          "corrected_text": [
+            "If you want to pick up a new outdoor activity, hiking is a great option to consider. It's a sport that is suited for a beginner or an expert; it just <strong>depends</strong> on the difficulty hikes you choose. However, even the earliest beginners can complete difficult hikes if they pace themselves and <strong>are</strong> physically fit.",
+            "Not only is hiking an easy activity to pick up, it also <strong>has</strong> some great payoffs. As you <strong>walk</strong> through canyons and <strong>climb</strong> up mountains, you can see things that you wouldn't otherwise. The views are breathtaking, and you will get a great opportunity to meditate on the world and your role in it. The summit of a mountain is unlike any other place in the world."
+          ],
+          "explanation": "<strong>Corrections:</strong><br>1. 'depended' (Past) changed to 'depends' (Present) - general truth.<br>2. 'were' (Past) changed to 'are' (Present) - general condition.<br>3. 'will have' changed to 'has' - for general payoffs, simple present is more appropriate than simple future here.<br>4. 'walked' (Past) and 'climbed' (Past) changed to 'walk' and 'climb' (Present) - general experience, not a past specific event."
+        }
+      ]
+      
+    },
+
+    
+    "pastTense": {
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "content": "TENSE - Past Tense",
+          "id": "past-tense-intro"
+        },
+        {
+          "type": "paragraph",
+          "content": "Past tense has four forms:"
+        },
+        {
+          "type": "list",
+          "style": "ul",
+          "items": [
+            "Past Indefinite Tense/ Simple Past Tense",
+            "Past Progressive (Continuous) Tense",
+            "Past Perfect Tense",
+            "Past Perfect Progressive (Continuous) Tense"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "content": "Past Indefinite Tense"
+        },
+        {
+          "type": "paragraph",
+          "content": "The past indefinite tense, also known as simple past tense, is used to indicate a finished or completed action/task that occurred/happened at a specific point in time in the past. ‘A specific time' can be diverse and can cover a long period of time but it cannot be undeterminable."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "Structure:"
+        },
+        {
+          "type": "paragraph",
+          "content": "Subject + verb in the past form + . . . + adverb of time + ..."
+        },
+        {
+          "type": "note",
+          "content": "Adverb of time (e.g. yesterday, later, last year) can also be at the beginning of the sentence. Other sentences can also refer to that adverb and can use simple past tense."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "Examples:"
+        },
+        {
+          "type": "list",
+          "style": "ul",
+          "items": [
+            "Sami went to Mexico last year.",
+            "I ate a mango a few minutes ago.",
+            "He had an exam yesterday.",
+            "I used to travel around the world when I was fit. (It can also indicate a habit of the past which is not a habit in the present.)"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "content": "Past Progressive (Continuous) Tense"
+        },
+        {
+          "type": "paragraph",
+          "content": "The past progressive tense is used to demonstrate an action that was happening in the past for a period of time in a particular context. The context can be a specific time or another action."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "Structure:"
+        },
+        {
+          "type": "paragraph",
+          "content": "Subject + was/were + verb + ing + . . a specific time"
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "Examples:"
+        },
+        {
+          "type": "list",
+          "style": "ul",
+          "items": [
+            "Sami was sleeping yesterday at 6.30 AM",
+            "I was cleaning the dishes at around 5.30-6.30 yesterday."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "Structure:"
+        },
+        {
+          "type": "paragraph",
+          "content": "When + subject + simple past tense + subject + was/were + verb+ing . . ."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "Examples:"
+        },
+        {
+          "type": "list",
+          "style": "ul",
+          "items": [
+            "When I went out, Samia was shouting from behind.",
+            "When Sami came, I was sleeping."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "Structure:"
+        },
+        {
+          "type": "paragraph",
+          "content": "Subject + was/were + verb+ing + when + subject + simple past tense . ."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "Examples:"
+        },
+        {
+          "type": "list",
+          "style": "ul",
+          "items": [
+            "Samia was shouting from behind when I went outside.",
+            "I was sleeping when Sami came home."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "Structure:"
+        },
+        {
+          "type": "paragraph",
+          "content": "While + subject + was/were + verb+ing + subject + was/were + verb+ing ..."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "Examples:"
+        },
+        {
+          "type": "list",
+          "style": "ul",
+          "items": [
+            "While I was sleeping, Samia was making noises.",
+            "While Sami was playing, I was sleeping."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "content": "Past Perfect Tense"
+        },
+        {
+          "type": "paragraph",
+          "content": "The past perfect is used to demonstrate an action that occurred before another action in the past. There are usually two completed actions in the sentence; one happens before the other."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "Structure:"
+        },
+        {
+          "type": "paragraph",
+          "content": "Subject + had + past participle form of the main verb + before + subject + simple past tense ..."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "Examples:"
+        },
+        {
+          "type": "list",
+          "style": "ul",
+          "items": [
+            "Samia had completed the task before the teacher asked.",
+            "I had bought a phone before you came here."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "Structure:"
+        },
+        {
+          "type": "paragraph",
+          "content": "Before + subject + simple past tense + subject + had + past participle form of the verb +. . ."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "Examples:"
+        },
+        {
+          "type": "list",
+          "style": "ul",
+          "items": [
+            "Before I went to the office, I had finished some business with her.",
+            "Before she went home, she had taken a test."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "Structure:"
+        },
+        {
+          "type": "paragraph",
+          "content": "Subject + simple past tense + after + subject + had + past participle ..."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "Examples:"
+        },
+        {
+          "type": "list",
+          "style": "ul",
+          "items": [
+            "Nihal ate after I had bought him a toy.",
+            "I went to the office after I had finished some business with her."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "Structure:"
+        },
+        {
+          "type": "paragraph",
+          "content": "After + subject + had + past participle + subject + simple past tense"
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "Examples:"
+        },
+        {
+          "type": "list",
+          "style": "ul",
+          "items": [
+            "After I had bought a phone, she came to the shop.",
+            "After she had gone, I came in."
+          ]
+        },
+        {
+          "type": "note",
+          "content": "When can be used in place of before or after in any of the above structures."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "content": "Past Perfect Progressive Tense"
+        },
+        {
+          "type": "paragraph",
+          "content": "The past perfect progressive tense is an extension to the past perfect tense and its structures. Past perfect progressive is used to demonstrate an action which continued for a specific period of time but stopped before another action."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "Structure:"
+        },
+        {
+          "type": "paragraph",
+          "content": "Subject + had + been + verb+ing + . . + for/since + . . + before + subject + past simple tense"
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "Examples:"
+        },
+        {
+          "type": "list",
+          "style": "ul",
+          "items": [
+            "Akram had been playing cricket for 18 years before he retired.",
+            "Sami had been living in Rajshahi since 2010 before he moved to Dhaka. This tense can be replaced by the past perfect tense withdrawing for/since."
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "id": "past_ex1",
+          "title": "Exercise I",
+          "type": "fill_in_the_blanks",
+          "direction": "Find mistakes and correct them using past simple and continuous.",
+          "questions": [
+            {"text": "I was doing my homework first and then I had a rest.", "answer": ["was doing ... had"]},
+            {"text": "My mum was often driving when she was younger.", "answer": ["drove"]},
+            {"text": "While daddy didn't look, Susan put his key in her pocket.", "answer": ["didn't look ... put"]},
+            {"text": "I needed to talk to her. And at 10 I was calling her.", "answer": ["needed ... was calling"]},
+            {"text": "I saw you with Jill at the cafe. You talked.", "answer": ["saw ... talked"]},
+            {"text": "Your English is very good. Where were you studying?", "answer": ["is ... were studying"]},
+            {"text": "As they walked along the river, they saw something in the water.", "answer": ["walked ... saw"]},
+            {"text": "I was taking her to Dover. We had a great time.", "answer": ["was taking ... had"]},
+            {"text": "The weather was perfect when the sun was shining. But it was changing soon.", "answer": ["was perfect ... was shining ... changed"]},
+            {"text": "When he met her, she wore a hat.", "answer": ["met ... wore"]}
+          ]
+        },
+        {
+          "id": "past_ex2",
+          "title": "Exercise II",
+          "type": "fill_in_the_blanks",
+          "direction": "Read these sentences and make questions using past simple and continuous.",
+          "questions": [
+            {"text": "When I met him, he was talking on the telephone.", "answer": ["was talking ... was he talking"]},
+            {"text": "Who ___ the company wanted to finish this house last week?", "answer": ["did"]},
+            {"text": "And when ___ it? (they | start) I saw your wife last night. She was driving a car.", "answer": ["did it start"]},
+            {"text": "What car ___ (she | drive)? I tried to get in touch with you last weekend.", "answer": ["was she driving"]},
+            {"text": "Why ___ to get in touch with me? (you | want)", "answer": ["did you want"]},
+            {"text": "My sister was not listening when I wanted to tell her. What ___ (your sister | do)? When I came to his bedroom, he was snoring.", "answer": ["was doing"]},
+            {"text": "How ___ ? On his back? (he | lie) At 10 o'clock I was watching a documentary film.", "answer": ["was he lying"]},
+            {"text": "Which channel ___ ? (you | watch) I had an accident on Monday.", "answer": ["were you watching"]},
+            {"text": "What ___ ? (happen | you)", "answer": ["happened"]}
+          ]
+        },
+        {
+          "id": "past_ex3",
+          "title": "Exercise III",
+          "type": "paragraph_correction",
+          "direction": "In the following paragraphs, some of the sentences contain errors in verb tense. Write out the correct form of any verb that is used incorrectly",
+          "original_text": [
+            "Some very remarkable adults are known to have experience quite unremarkable childhoods. English author G.K. Chesterton, for instance, could not read until the age of 8, and he usually finish at the bottom of his class. \"If we could opened your head,\" one of his teachers remark, \"we would not find any brain but only a lump of fat.\" Chesterton eventually become a successful novelist. Similarly, Thomas Edison was label a \"dunce\" by one of his teachers, and young James Watt was called \"dull and inept.\"",
+            "Leonardo da Vinci's \"Mona Lisa\" is one of the most famous portraits in the history of painting. Leonardo took four years to complete the painting: he begun work in 1503 and finish in 1507. Mona (or Madonna Lisa Gherardini) was from a noble family in Naples, and Leonardo may have paint her on commission from her husband. Leonardo is said to have entertain Mona Lisa with six musicians. He install a musical fountain where the water play on small glass spheres, and he give Mona a puppy and a white Persian cat to play with. Leonardo did what he could to keep Mona smiling during the long hours she sit for him. But it is not only Mona's mysterious smile that has impress anyone who has ever view the portrait: the background landscape is just as mysterious and beautiful. The portrait can be seen today in the Louvre Museum in Paris."
+          ],
+          "corrected_text": [
+            "Some very remarkable adults are known to have experience quite unremarkable childhoods. English author G.K. Chesterton, for instance, could not read until the age of 8, and he usually <strong>finished</strong> at the bottom of his class. \"If we could <strong>open</strong> your head,\" one of his teachers <strong>remarked</strong>, \"we would not find any brain but only a lump of fat.\" Chesterton eventually <strong>became</strong> a successful novelist. Similarly, Thomas Edison was <strong>labeled</strong> a \"dunce\" by one of his teachers, and young James Watt was called \"dull and inept.\"",
+            "Leonardo da Vinci's \"Mona Lisa\" is one of the most famous portraits in the history of painting. Leonardo took four years to complete the painting: he <strong>began</strong> work in 1503 and <strong>finished</strong> in 1507. Mona (or Madonna Lisa Gherardini) was from a noble family in Naples, and Leonardo may have <strong>painted</strong> her on commission from her husband. Leonardo is said to have <strong>entertained</strong> Mona Lisa with six musicians. He <strong>installed</strong> a musical fountain where the water <strong>played</strong> on small glass spheres, and he <strong>gave</strong> Mona a puppy and a white Persian cat to play with. Leonardo did what he could to keep Mona smiling during the long hours she <strong>sat</strong> for him. But it is not only Mona's mysterious smile that has <strong>impressed</strong> anyone who has ever <strong>viewed</strong> the portrait: the background landscape is just as mysterious and beautiful. The portrait can be seen today in the Louvre Museum in Paris."
+          ],
+          "explanation": "<strong>Corrections:</strong><br><strong>Paragraph 1:</strong><br>1. 'finish' changed to 'finished' (past tense).<br>2. 'opened' changed to 'open' (modal verb 'could' is followed by base form).<br>3. 'remark' changed to 'remarked' (past tense).<br>4. 'become' changed to 'became' (past tense).<br>5. 'label' changed to 'labeled' (past tense).<br><br><strong>Paragraph 2:</strong><br>1. 'begun' changed to 'began' (simple past tense).<br>2. 'finish' changed to 'finished' (simple past tense).<br>3. 'paint' changed to 'painted' (past participle in a passive construction).<br>4. 'entertain' changed to 'entertained' (past tense).<br>5. 'install' changed to 'installed' (past tense).<br>6. 'play' changed to 'played' (past tense).<br>7. 'give' changed to 'gave' (past tense).<br>8. 'sit' changed to 'sat' (past tense).<br>9. 'impress' changed to 'impressed' (past participle).<br>10. 'view' changed to 'viewed' (past tense)."
+        },
+        {
+          "id": "past_ex4",
+          "title": "Exercise IV",
+          "type": "fill_in_the_blanks",
+          "direction": "Respond to the following situations using past perfect continuous.",
+          "questions": [
+            {"text": "Why were you so red? Because I ___ before we met. (jog) Your test was absolutely correct.", "answer": ["had been jogging"]},
+            {"text": "Really? I ___ for it so long. (revise) Did you see Jane? She was so angry.", "answer": ["had been revising"]},
+            {"text": "No wonder. She ___ with her brother all day. (argue) Bill was exhausted.", "answer": ["had been arguing"]},
+            {"text": "Yes, he really was. He ___ too long. (work) Your parents went to bed very late.", "answer": ["had been working"]},
+            {"text": "They ___ all afternoon. (have a rest) Why were all the players so dirty at the end of the match?", "answer": ["had been having a rest"]},
+            {"text": "Because they ___ in mud. (play) Did you get in touch with Richard in time?", "answer": ["had been playing"]},
+            {"text": "Not really. But I ___ to contact him all the time. (try) Was Grace your classmate?", "answer": ["had been trying"]},
+            {"text": "No, she wasn't. But she ___ Class B for a year before she left. (attend) Why were Matt and Sue so pale when they returned?", "answer": ["had been attending"]},
+            {"text": "Because they ___ in their room all their holiday. (stay) What time did Doris get up?", "answer": ["had been staying"]},
+            {"text": "She ___ till ten o'clock. (sleep)", "answer": ["had been sleeping"]}
+          ]
+        },
+        {
+          "id": "past_ex5",
+          "title": "Exercise V",
+          "type": "fill_in_the_blanks",
+          "direction": "Complete the following passage with the correct form of past tense.",
+          "questions": [
+            {"text": "When I 1) ___ (be) 18 years old, I 2) ___ (decide) to spend some time in America. However, until I 3) ___ (save) enough money, I 4) ___ (not tell) anybody about my plan. My mum 5) ___ (be shocked), because we 6) ___ (never be) abroad. At that time, I 7) ___ (have) a pen-friend in Dallas and I 8) ___ (always want) to see her. I 9) ___ (know) that my English 10) ___ (be) very good as I 11) ___ (pass) Cambridge exams with grade A. Before I 12) ___ (start) to write to Wendy, it 13) ___ (never come) to my mind that I 14) ___ (can) go to the States on my own. Nevertheless, after I 15) ___ (decide) to set off, I just 16) ___ (have) to go.",
+              "blanks": 16,
+              "answer": [
+                "was",
+                "decided",
+                "had saved",
+                "did not tell",
+                "was shocked",
+                "had never been",
+                "had",
+                "had always wanted",
+                "knew",
+                "was",
+                "had passed",
+                "started",
+                "had never come",
+                "could",
+                "had decided",
+                "had to"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "futureTense": {
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "content": "TENSE - Future Tense",
+          "id": "future-tense-intro"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "content": "Functions of Simple Future Tense"
+        },
+        {
+          "type": "paragraph",
+          "content": "The simple future refers to a time later than now, and expresses facts or certainty. In this case there is no 'attitude'."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "The simple future is used:"
+        },
+        {
+          "type": "list",
+          "style": "ul",
+          "items": [
+            "To predict a future event: It will rain tomorrow.",
+            "With I or We, to express a spontaneous decision: I'll pay for the tickets by credit card.",
+            "To express willingness: I'll do the washing-up. He'll carry your bag for you.",
+            "In the negative form, to express unwillingness: The baby won't eat his soup. I won't leave until I've seen the manager!",
+            "With I in the interrogative form using \"shall\", to make an offer: Shall I open the window?",
+            "With we in the interrogative form using \"shall\", to make a suggestion: Shall we go to the cinema tonight?",
+            "With I in the interrogative form using \"shall\", to ask for advice or instructions: What shall I tell the boss about this report?",
+            "With you, to give orders: You will do exactly as I say.",
+            "With you in the interrogative form, to give an invitation: Will you join with us for the dinner? Will you join the seminar with me?"
+          ]
+        },
+        {
+          "type": "note",
+          "content": "In modern English will is preferred to shall. Shall is mainly used with I and we to make an offer or suggestion, or to ask for advice (see examples above). With the other persons (you, he, she, they) shall is only used in literary or poetic situations, e.g. \"With rings on her fingers and bells on her toes, She shall have music wherever she goes.\""
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "content": "Will vs. Going to"
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "When to use GOING TO"
+        },
+        {
+          "type": "paragraph",
+          "content": "The structure BE GOING TO is normally used to indicate the future but with some type of connection to the present. We use it in the following situations:"
+        },
+        {
+          "type": "list",
+          "style": "numbered",
+          "items": [
+            "When we have already decided or we INTEND to do something in the future. (Prior Plan) The decision has been made before the moment of speaking. They're going to retire to the beach - in fact they have already bought a little beach house. I'm going to accept the job offer.",
+            "When there are definite signs that something is going to happen. (Evidence) Something is likely to happen based on the evidence or experience you have. I think it is going to rain - I just felt a drop. I don't feel well. I think I'm going to throw up. (throw up = vomit)",
+            "When something is about to happen: Get back! The bomb is going to explode."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "When to use WILL"
+        },
+        {
+          "type": "paragraph",
+          "content": "In other cases, where there is no implicit or explicit connection to the present, use WILL:"
+        },
+        {
+          "type": "list",
+          "style": "numbered",
+          "items": [
+            "For things that we decide to do now. (Rapid Decisions) This is when you make a decision at that moment, in a spontaneous way. I'll buy one for you too. I think I'll try one of those. (I just decided this right now)",
+            "When we think or believe something about the future. (Prediction) My team will not win the league this season. I think it will rain later so take an umbrella with you.",
+            "To make an offer, a promise or a threat. I'll give you a discount if you buy it right now. I promise I will behave next time. I'll take you to the movies if you'd like.",
+            "You use WON'T when someone refuses to do something. I told him to take out the trash but he won't do it. My kids won't listen to anything I say. My car won't start."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "content": "Future Predictions"
+        },
+        {
+          "type": "paragraph",
+          "content": "As you can see, both Will and Going to can be used for making future predictions without having a real difference in meaning."
+        },
+        {
+          "type": "list",
+          "style": "ul",
+          "items": [
+            "The weather report says it will rain tomorrow. (Correct)",
+            "The weather report says it is going to rain tomorrow. (Correct)"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "content": "Compare Will vs. Going To"
+        },
+        {
+          "type": "paragraph",
+          "content": "If someone asks: \"Are you busy this evening?\" If I respond: \"Yes, I'm going to the movies.\" I use going to because it is a plan I made earlier (before I was asked the question). - In this case we cannot use Will. If I haven't made plans, then you can say either: \"I will probably watch TV.\" OR \"I'm probably going to watch TV.\" Both will and going to are possible in this situation because we are predicting what will happen (since we haven't made any plans)."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "content": "Functions of Future Continuous Tense"
+        },
+        {
+          "type": "paragraph",
+          "content": "The future continuous refers to an unfinished action or event that will be in progress at a time later than now. The future continuous is used for quite a few different purposes."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "The future continuous can be used to project ourselves into the future."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "Examples"
+        },
+        {
+          "type": "list",
+          "style": "ul",
+          "items": [
+            "This time next week I will be exploring the beauty of the valley of Sajek.",
+            "Just think, next Monday you will be working in your new job."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "The future continuous can be used for predicting or guessing about future events."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "Examples"
+        },
+        {
+          "type": "list",
+          "style": "ul",
+          "items": [
+            "He'll be coming to the meeting, I expect.",
+            "I guess you'll be feeling thirsty after working in the sun.",
+            "You'll be missing the sunshine once you're back in England."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "In the interrogative form, the future continuous can be used to ask politely for information about the future."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "Examples"
+        },
+        {
+          "type": "list",
+          "style": "ul",
+          "items": [
+            "Will Sami be coming with us?",
+            "Will she be going to the party tonight?",
+            "Will I be sleeping in this room?"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "The future continuous can be used to refer to continuous events that we expect to happen in the future."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "Examples"
+        },
+        {
+          "type": "list",
+          "style": "ul",
+          "items": [
+            "I'll be seeing Jim at the conference next week.",
+            "When he is in Australia he will be staying with friends.",
+            "I'll be eating with Jane this evening so I can tell her."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "When combined with still, the future continuous refers to events that are already happening now and that we expect to continue some time into the future."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "Examples"
+        },
+        {
+          "type": "list",
+          "style": "ul",
+          "items": [
+            "In an hour I'll still be ironing my clothes.",
+            "Tomorrow he'll still be suffering from his cold.",
+            "Next year will she still be wearing a size six?",
+            "Won't stock prices still be falling in the morning?",
+            "Unfortunately, sea levels will still be rising in 20 years."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "content": "Functions of Future Perfect Tense"
+        },
+        {
+          "type": "paragraph",
+          "content": "The future perfect tense refers to a completed action in the future. When we use this tense we are projecting ourselves forward into the future and looking back at an action that will be completed some time later than now. It is most often used with a time expression."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "Examples"
+        },
+        {
+          "type": "list",
+          "style": "ul",
+          "items": [
+            "I will have been here for six months on June 23rd.",
+            "By the time you read this I will have left.",
+            "You will have finished your report by this time next week.",
+            "Won't they have arrived by 5:00?",
+            "Will you have eaten when I pick you up?"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "content": "Functions of Future Perfect Continuous"
+        },
+        {
+          "type": "paragraph",
+          "content": "Like the future perfect simple, this form is used to project ourselves forward in time and to look back. It refers to events or actions that are currently unfinished but will be finished at some future time. It is most often used with a time expression."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "content": "Examples"
+        },
+        {
+          "type": "list",
+          "style": "ul",
+          "items": [
+            "I will have been waiting here for three hours by six o'clock.",
+            "By 2001 I will have been living in London for sixteen years.",
+            "Next year I will have been working here for four years.",
+            "When I finish this course, I will have been learning English for twenty years.",
+            "When I come at 6:00, will you have been practicing long?"
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "id": "future_ex1",
+          "title": "Exercise I",
+          "type": "fill_in_the_blanks",
+          "direction": "Rewrite the underlined forms with the future simple or continuous.",
+          "questions": [
+            {"text": "Don't call me at 10 o'clock. I am going to fly to Spain.", "answer": ["am going to fly"]},
+            {"text": "I suppose we're going to stay at a hotel next summer.", "answer": ["are going to stay"]},
+            {"text": "Come to see me in the afternoon. I work in the garden.", "answer": ["will work"]},
+            {"text": "Do you think it is snowing at the weekend?", "answer": ["will be snowing"]},
+            {"text": "Is the coat OK? - Yes, I am taking it.", "answer": ["am taking"]},
+            {"text": "This time on Sunday we are going to ski in France.", "answer": ["are going to ski"]},
+            {"text": "I don't know if I will stay here. Perhaps I move to a big city one day.", "answer": ["will move"]},
+            {"text": "Every student is using a computer in the near future.", "answer": ["will be using"]}
+          ]
+        },
+        {
+          "id": "future_ex2",
+          "title": "Exercise II",
+          "type": "fill_in_the_blanks",
+          "direction": "Make negative sentences. Use the verbs in brackets.",
+          "questions": [
+            {"text": "The New Year ___ on 31 December. (start)", "answer": ["will not start", "won't start"]},
+            {"text": "I'll be sleeping in the afternoon. I ___ . (do housework)", "answer": ["will not do housework", "won't do housework"]},
+            {"text": "We'll be in beds. We ___ to Sylhet when the sun rises. (drive)", "answer": ["will not drive", "won't drive"]},
+            {"text": "I forgot to tell her. But I ___ her now. It's too late. (call)", "answer": ["will call", "am going to call"]},
+            {"text": "My best friend will still be in Sylhet tonight. He ___ to Dhaka. (return)", "answer": ["will not return", "won't return"]},
+            {"text": "You can't meet me at the supermarket. I ___ in the afternoon. (shop)", "answer": ["will shop", "am going to shop"]},
+            {"text": "Is Sami at school? - No, he isn't. I suppose he ___ . (come)", "answer": ["will come", "is going to come"]},
+            {"text": "I can't stand Sami. I hope he ___ there. (be)", "answer": ["will not be", "won't be"]},
+            {"text": "We ___ our luggage this time tomorrow. We'll already be on the way. (pack)", "answer": ["will pack", "are going to pack"]},
+            {"text": "If you are careful, the cars ___ you down. (knock)", "answer": ["will not knock", "won't knock"]}
+          ]
+        },
+        {
+          "id": "future_ex3",
+          "title": "Exercise III",
+          "type": "jumbled_question",
+          "direction": "Jumbled sentences - make future simple questions.",
+          "example": "you | tidy | room | your<br>Will you tidy your room?",
+          "questions": [
+            {"text": "Sami | arrive | when", "answer": ["When will Sami arrive?"]},
+            {"text": "not | work | mum | late | your | tonight", "answer": ["Will your mum not work late tonight?","Won't your mum work late tonight?"]},
+            {"text": "at | be | Maria | tomorrow | school", "answer": ["Will Maria be at school tomorrow?"]},
+            {"text": "you | what | leave | time", "answer": ["What time will you leave?"]},
+            {"text": "classmates | in | be | classroom | their | your", "answer": ["Will your classmates be in their classroom?"]},
+            {"text": "hairstyle | think | what | Sami | my | of | new", "answer": ["What do you think of Sami's new hairstyle?"]},
+            {"text": "concert | enjoy | the | Mr. and Mrs. Ahmed", "answer": ["Will Mr. and Mrs. Ahmed enjoy the concert?"]},
+            {"text": "you | till | stay | there | not | Sunday", "answer": ["Will you not stay there till Sunday?","Won't you stay there till Sunday?"]},
+            {"text": "you | address | your | tell | me | email", "answer": ["Will you tell me your email address?"]},
+            {"text": "the | how | Sami | find | hotel", "answer": ["How will Sami find the hotel?"]}
+          ]
+        },
+        {
+          "id": "future_ex4",
+          "title": "Exercise IV",
+          "type": "fill_in_the_blanks",
+          "direction": "Direction: Put in 'will' or 'be going to':",
+          "questions": [
+            {"text": "A: We don't have any bread.<br>B: I know. I ___ get some from the shop. (buy)", "answer": ["will"]},
+            {"text": "A: We don't have any bread.<br>B: Really? So I ___ get some from the shop then. (buy)", "answer": ["will"]},
+            {"text": "A: Why do you need to borrow my suitcase?<br>B: I ___ visit my mother in Scotland next month. (plan)", "answer": ["am going to"]},
+            {"text": "A: I'm really cold.<br>B: I ___ turn the heating on. (decide)", "answer": ["will"]},
+            {"text": "A: Are you going to Sami's birthday party tonight?<br>B: Yes. Are you going too? I ___ give you a lift. (offer)", "answer": ["will"]},
+            {"text": "A: What are your plans after you leave university?<br>B: I ___ work in a hospital in Rajshahi. I leave on the 28th . (intend)", "answer": ["am going to"]},
+            {"text": "(The phone rings)<br>A: I ___ get it!", "answer": ["will"]},
+            {"text": "A: Are you ready to order?<br>B: I can't decide ... Okay, I ___ have the steak, please. (decide)", "answer": ["will"]},
+            {"text": "A: Are you busy tonight? Would you like to have coffee?<br>B: Sorry. I ___ go to the library. I've been planning to study all day. (plan)", "answer": ["am going to"]},
+            {"text": "A: Why are you carrying a hammer?<br>B: I ___ put up some pictures. (intend)", "answer": ["am going to"]}
+          ]
+        },
+        {
+          "id": "future_ex5",
+          "title": "Exercise V",
+          "type": "fill_in_the_blanks",
+          "direction": "Direction: Complete the following passage with the correct form of past tense.",
+          "questions": [
+            {"text": "Sami's family usually comes to stay with us for the new year, but this new year we are going to visit them instead. They live in Cox's Bazar. I can hardly wait - I a) ___ (have) a fantastic time there. School holiday's b) ___ (start) on Friday, and we are going to leave the following morning. At this time next week, I c) ___ (swim) in the sea, and paragliding with Sami. He's an expert, and he d) ___ (practice) with me every day. By the last day of our visit, his dad is going to take us to visit the Laboni Beach. I hope by then I e) ___ (improve) enough to swim with them and see the magnificent colored surrounding and brightly colored fish close up. Next year, I f) ___ (learn) scuba diving.",
+              "blanks": 6,
+              "answer": [
+                "am going to have",
+                "are starting",
+                "will be swimming",
+                "will be practicing",
+                "will have improved",
+                "am going to learn"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
+

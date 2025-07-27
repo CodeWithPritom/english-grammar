@@ -1,0 +1,318 @@
+{
+  "subjectVerbAgreement": {
+    "sections": [
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Subject-Verb Agreement",
+        "id": "subject-verb-agreement-intro"
+      },
+      {
+        "type": "paragraph",
+        "content": "Being able to find the right subject and verb will help you correct errors of subject-verb agreement."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Rule 1. A subject will come before a phrase beginning with of. This is a key rule for understanding subjects. The word of is the culprit in many, perhaps most, subject-verb mistakes."
+      },
+      {
+        "type": "paragraph",
+        "content": "Hasty writers, speakers, readers, and listeners might miss the all-too-common mistake in the following sentence:"
+      },
+      {
+        "type": "paragraph",
+        "content": "<strong>Incorrect:</strong> A bouquet of yellow roses lend color and fragrance to the room."
+      },
+      {
+        "type": "paragraph",
+        "content": "<strong>Correct:</strong> A bouquet of yellow roses <strong>lends</strong> . . . (bouquet lends, not roses lend)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Rule 2. Two singular subjects connected by or, either/or, or neither/nor require a singular verb."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "content": "Examples:"
+      },
+      {
+        "type": "list",
+        "style": "ul",
+        "items": [
+          "My aunt or my uncle <strong>is</strong> arriving by train today.",
+          "Neither Juan nor Carmen <strong>is</strong> available.",
+          "Either Kiana or Casey <strong>is</strong> helping today with stage decorations."
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Rule 3. The verb in an or, either/or, or neither/nor sentence agrees with the noun or pronoun closest to it."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "content": "Examples:"
+      },
+      {
+        "type": "list",
+        "style": "ul",
+        "items": [
+          "Neither the plates nor the serving bowl <strong>goes</strong> on that shelf.",
+          "Neither the serving bowl nor the plates <strong>go</strong> on that shelf."
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Rule 4. As a general rule, use a plural verb with two or more subjects when they are connected by and."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "content": "Example:"
+      },
+      {
+        "type": "list",
+        "style": "ul",
+        "items": [
+          "A car and a bike <strong>are</strong> my means of transportation."
+        ]
+      },
+      {
+        "type": "note",
+        "content": "But note these exceptions: Breaking and entering <strong>is</strong> against the law. The bed and breakfast <strong>was</strong> charming. In those sentences, breaking and entering and bed and breakfast are compound nouns."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Rule 5a. Sometimes the subject is separated from the verb by such words as along with, as well as, besides, not, etc. These words and phrases are not part of the subject. Ignore them and use a singular verb when the subject is singular."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "content": "Examples:"
+      },
+      {
+        "type": "list",
+        "style": "ul",
+        "items": [
+          "The politician, along with the newsmen, <strong>is</strong> expected shortly.",
+          "Excitement, as well as nervousness, <strong>is</strong> the cause of her shaking."
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Rule 5b. Parentheses are not part of the subject."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "content": "Example:"
+      },
+      {
+        "type": "list",
+        "style": "ul",
+        "items": [
+          "Joe (and his trusty mutt) <strong>was</strong> always welcome."
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Rule 6. In sentences beginning with here or there, the true subject follows the verb."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "content": "Examples:"
+      },
+      {
+        "type": "list",
+        "style": "ul",
+        "items": [
+          "There <strong>are</strong> four hurdles to jump.",
+          "There <strong>is</strong> a high hurdle to jump.",
+          "Here <strong>are</strong> the keys."
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Rule 7. Use a singular verb with distances, periods of time, sums of money, etc., when considered as a unit."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "content": "Examples:"
+      },
+      {
+        "type": "list",
+        "style": "ul",
+        "items": [
+          "Three miles <strong>is</strong> too far to walk.",
+          "Five years <strong>is</strong> the maximum sentence for that offense."
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Rule 8. With words that indicate portions—e.g., a lot, a majority, some, all—Rule 1 given earlier in this section is reversed, and we are guided by the noun after of. If the noun after of is singular, use a singular verb. If it is plural, use a plural verb."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "content": "Examples:"
+      },
+      {
+        "type": "list",
+        "style": "ul",
+        "items": [
+          "A lot of the pie <strong>has</strong> disappeared.",
+          "A lot of the pies <strong>have</strong> disappeared.",
+          "A third of the city <strong>is</strong> unemployed.",
+          "A third of the people <strong>are</strong> unemployed.",
+          "All of the pie <strong>is</strong> gone.",
+          "All of the pies <strong>are</strong> gone.",
+          "Some of the pie <strong>is</strong> missing.",
+          "Some of the pies <strong>are</strong> missing."
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Rule 9. The word were replaces was in sentences that express a wish or are contrary to fact."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "content": "Example:"
+      },
+      {
+        "type": "list",
+        "style": "ul",
+        "items": [
+          "If Joe <strong>were</strong> here, you'd be sorry."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Shouldn't Joe be followed by was, not were, given that Joe is singular? But Joe isn't actually here, so we say were, not was. The sentence demonstrates the subjunctive mood, which is used to express things that are hypothetical, wishful, imaginary, or factually contradictory. The subjunctive mood pairs singular subjects with what we usually think of as plural verbs."
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "content": "Examples:"
+      },
+      {
+        "type": "list",
+        "style": "ul",
+        "items": [
+          "I wish it <strong>were</strong> Friday."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "In this example, a wishful statement, not a fact, is being expressed; therefore, were, which we usually think of as a plural verb, is used with the singular it. (Technically, it is the singular subject of the object clause in the subjunctive mood: it were Friday.)"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "sva_ex1",
+        "title": "Exercise I",
+        "type": "multiple_choice_circle",
+        "direction": "Direction: Circle the correct verb in each of the sentences below.",
+        "questions": [
+          {"text": "Your friend (talk/talks) too much.", "answer": ["talks"]},
+          {"text": "The man with the roses (look/looks) like your brother.", "answer": ["looks"]},
+          {"text": "The women in the pool (swim/swims) well.", "answer": ["swim"]},
+          {"text": "Bill (drive/drives) a cab.", "answer": ["drives"]},
+          {"text": "The football players (run/runs) five miles every day.", "answer": ["run"]},
+          {"text": "That red-haired lady in the fur hat (live/lives) across the street.", "answer": ["lives"]},
+          {"text": "He (cook/cooks) dinner for his family.", "answer": ["cooks"]},
+          {"text": "The boys (walk/walks) to school every day.", "answer": ["walk"]},
+          {"text": "The weather on the coast (appear/appears) to be good this weekend.", "answer": ["appears"]},
+          {"text": "The center on the basketball team (bounce/bounces) the ball too high.", "answer": ["bounces"]}
+        ]
+      },
+      {
+        "id": "sva_ex2",
+        "title": "Exercise II",
+        "type": "correct_incorrect",
+        "direction": "Directions: Put a C if the sentence is correct, an X if it is not correct.",
+        "questions": [
+          {"text": "They have been waiting a long time.", "answer": "C"},
+          {"text": "The pen or the pencil are lost.", "answer": "X"},
+          {"text": "Someone don't understand.", "answer": "X"},
+          {"text": "Those has been cheaper in the past.", "answer": "X"},
+          {"text": "Randy and Juan like sports.", "answer": "C"},
+          {"text": "These are really special.", "answer": "C"},
+          {"text": "You rides with me.", "answer": "X"},
+          {"text": "All of them goes to school.", "answer": "X"},
+          {"text": "Tony likes Mary.", "answer": "C"},
+          {"text": "That movie was awesome.", "answer": "C"}
+        ]
+      },
+      {
+        "id": "sva_ex3",
+        "title": "Exercise III",
+        "type": "fill_in_the_blanks",
+        "direction": "Directions: Write the correct verb in the blank to the left of each sentence.",
+        "questions": [
+          {"text": "Everybody ___ asked to be quiet.", "answer": ["was"]},
+          {"text": "In a marathon, few of the starters ___ the race.", "answer": ["complete"]},
+          {"text": "Sixty days ___ not enough time to complete the project.", "answer": ["is"]},
+          {"text": "All of the workers ___ receiving their bonus.", "answer": ["are"]},
+          {"text": "On our street ___ many tall trees.", "answer": ["are"]},
+          {"text": "It ___ any difference.", "answer": ["makes"]},
+          {"text": "The value of cars and motorcycles ___ increased.", "answer": ["has"]},
+          {"text": "The principal and her husband ___ honored guests.", "answer": ["were"]},
+          {"text": "Either the pitcher or the base runners ___ caught napping.", "answer": ["is"]},
+          {"text": "One of my friends ___ in E.S.P.", "answer": ["believes"]},
+          {"text": "Have you ever heard the expression, \"No new ___ good news?\"", "answer": ["is"]},
+          {"text": "There ___ several dents in the car.", "answer": ["are"]},
+          {"text": "Louise ___ want to drive that long distance.", "answer": ["does not"]},
+          {"text": "Either Luis or Horace ___ the bills in our house.", "answer": ["pays"]},
+          {"text": "A boy and a girl ___ here to see you.", "answer": ["are"]},
+          {"text": "The box of apples ___ on the porch.", "answer": ["sits"]},
+          {"text": "Some of the job applicants ___ expected to pass the difficult screening test.", "answer": ["are"]},
+          {"text": "The army ___ conducting maneuvers in March.", "answer": ["is"]},
+          {"text": "Here ___ the family now.", "answer": ["is"]},
+          {"text": "Neither of us ___ going to work.", "answer": ["is"]},
+          {"text": "___ they know when to quit?", "answer": ["Do"]},
+          {"text": "Thirty minutes ___ the time limit for the test.", "answer": ["is"]},
+          {"text": "Measles ___ a disease most children experience.", "answer": ["is"]},
+          {"text": "The class ___ turning in their registration forms today.", "answer": ["is"]},
+          {"text": "Beyond the mountains ___ a fertile valley.", "answer": ["is"]}
+        ]
+      },
+      {
+        "id": "sva_ex4",
+        "title": "Exercise IV",
+        "type": "fill_in_the_blanks",
+        "direction": "Directions: Write the correct verb in the blank to the left of each sentence. See the instructor for answers.",
+        "questions": [
+          {"text": "I love to play bocce*. The game 1) ___ (do) not require any special athletic abilities. There 2) ___ (be) several teams in the league. I have a new set of bocce balls. My friend 3) ___ (have) a new pallino** ball. Bocce is a game for people of all ages. I 4) ___ (be) going to show you how to play. The players take turns rolling a ball down the court. Each of the players 5) ___ (take) one ball and aims for the pallino. We try to get our balls as close to the pallino as possible. Rick often 6) ___ (try) to bounce his ball off the side of the court. Nobody enjoys playing bocce more than I do. Everybody who plays bocce 7) ___ (enjoy) the game. There are four players on each team. There 8) ___ (be) a tournament at the end of the season. The winners of the tournament carry home a trophy. Everyone 9) ___ (carry) home good memories. I am ready to play a game now. You and your friends 10) ___ (be) welcome to join us.",
+          "blanks": 10,
+          "answer": [
+            "does not require",
+            "are",
+            "has",
+            "is going",
+            "takes",
+            "tries",
+            "enjoys",
+            "is",
+            "carries",
+            "are"
+          ]
+          }
+        ]
+      }
+    ]
+  }
+}
